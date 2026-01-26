@@ -1,0 +1,2 @@
+# Low-cost-modular-monitoring-system-for-indoor-lighting-assessment
+It presents ecoDAQ, a low-cost and modular monitoring system developed for multi-domain assessment of indoor lighting performance &amp; visual comfort in real-world settings. The system integrates a light toolkit for spatial and spectral lighting measurements and a survey toolkit for simultaneous environmental monitoring and user feedback collection. 
