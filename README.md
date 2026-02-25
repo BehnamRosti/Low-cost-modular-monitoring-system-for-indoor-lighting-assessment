@@ -5,6 +5,7 @@ The system integrates:
 - A Survey Toolkit for synchronized environmental monitoring and subjective comfort assessment
 -------------------------------------------------------------------------
 🔹System Overview
+
 ecoDAQ supports:
 - Multi-point illuminance mapping
 - CCT-augmented lux calibration
@@ -15,6 +16,7 @@ ecoDAQ supports:
 - Low-cost design with total hardware cost < 350 €
 -------------------------------------------------------------------------
 🔹 Hardware Components
+
 Light Toolkit:
 - Raspberry Pi
 - 9 × TSL2591 light sensors
